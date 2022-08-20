@@ -9,7 +9,7 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=RMBrogerio&theme=gotham&hide_border=true&area=true)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/RMBrogerio/RMBrogerio/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- <p align="center">
