@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Rogério Miguel 🖐️
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5568fe&size=20&=true&vCenter=true&width=1000&lines=Engenheiro+de+Software+/+Engenheiro+da+comutação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5568fe&size=20&=true&vCenter=true&width=1000&lines=Engenheiro+de+Software+/+Engenheiro+da+computação)](https://git.io/typing-svg)
 
 [![RMBrogerio's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMBrogerio&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
