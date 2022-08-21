@@ -1,13 +1,11 @@
 
 ## Olá! Eu sou o Rogério Miguel 🖐️
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5568fe&size=20&=true&vCenter=true&width=1000&lines=Engenheiro+de+Software,Engenheiro+da+comutação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5568fe&size=20&=true&vCenter=true&width=1000&lines=Engenheiro+de+Software+/+Engenheiro+da+comutação)](https://git.io/typing-svg)
 
-<div align="center">
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RMBrogerio&show_icons=true&count_private=true&hide_border=true&title_color=5568fe&icon_color=cfcfcf&text_color=c9d1d9&bg_color=0d1117" alt="RMBrogerio github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMBrogerio&layout=compact&hide_border=true&title_color=5568fe&text_color=E3AB5D&bg_color=0d1117" />
-</div>
+[![RMBrogerio's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMBrogerio&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RMBrogerio&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Habilidades
 ![Html5](https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
