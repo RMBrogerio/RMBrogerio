@@ -23,10 +23,10 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-e34f26?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## Estudando no momento
-
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-e34f26?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 
 <!--<div style="display: inline_block">
@@ -43,13 +43,5 @@
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
-  ## Core Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=projetos-python&theme=radical)](https://github.com/iuryrosal/projetos-python)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=data-science&theme=radical)](https://github.com/iuryrosal/data-science)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=machine-learning&theme=radical)](https://github.com/iuryrosal/machine-learning)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=software-enginerring&theme=radical)](https://github.com/iuryrosal/software-enginerring)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuryrosal&repo=analise-dados-telegram-bot&theme=radical)](https://github.com/iuryrosal/analise-dados-telegram-bot)
+ ## Repositórios Principais
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RMBrogerio&repo=jogo-da-forca&theme=dark)](https://github.com/RMBrogerio/jogo-da-forca)
